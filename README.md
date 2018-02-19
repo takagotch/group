@@ -6,7 +6,7 @@
 - https://github.com/dnote-io
 - https://github.com/lewagon
 -
--
+- https://github.com/huginn
 -
 -
 -
