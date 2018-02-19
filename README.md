@@ -5,7 +5,7 @@
 - https://github.com/serverless
 - https://github.com/dnote-io
 - https://github.com/lewagon
--
+- https://github.com/rapid7
 - https://github.com/huginn
 - https://github.com/tootsuite
 -
